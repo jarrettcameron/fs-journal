@@ -10,4 +10,4 @@ My name is Jarrett Cameron. I am a student at [CodeWorks](https://boisecodeworks
 ## Contact
 
 * [Resume](https://jarrettcameron03.github.io/resume)
-* Email: native@hotmail.com
+* Email: disk@outlook.com
