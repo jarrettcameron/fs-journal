@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > There's a few reasons that Git is used, the first is it's popularity in the field. It's *very* common and unless you live under a rock it's something that's expected to be known. The second reason is: accidents happen, having many versions/backups of your code uploaded is extremely helpful.
 
 02. In the terminal, what is the command `mkdir` used for?
     > | ANSWER HERE |
