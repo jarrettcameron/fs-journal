@@ -42,7 +42,7 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > They both basically refer to the same concept but in different places. Parameters are local/internal to the function, it's what is being used in the function. function test(param1, param2) { } whereas arguments are plugged into a function when executing it test(arg1, arg2).
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
