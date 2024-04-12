@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/jarrettcameron03/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/jarrettcameron03/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/jarrettcameron03/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/jarrettcameron03/<ASSIGNMENT_REPO>)**
+* **[Monday](https://github.com/jarrettcameron03?tab=repositories)**
+* **[Tuesday](https://github.com/jarrettcameron03/GregslistAPI)**
+* **[Wednesday](https://github.com/jarrettcameron03/Rats)**
+* **[Thursday](https://github.com/jarrettcameron03/bugLog)**
