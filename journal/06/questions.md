@@ -25,7 +25,7 @@
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > No clue what "the state object within a component" is referring to. We haven't explored this yet but if we end up exploring Thursday I'll definitely come back and answer this.
+  > AppState is globally scoped for all components to use and interact with, state objects within components are local to that component and cannot be interacted with outside the component (unless passed through).
 
 08. What is the responsibility of `Services` in our Vue projects?
 
