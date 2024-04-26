@@ -10,7 +10,7 @@
 
 3. What are some of the advantages/uses of a `SPA` over a traditional one?
 
-  > | ANSWER HERE |
+  > Single-page applications have a huge benefit of improved loading speeds and responsiveness. Apart from this, they are also useful because they avoid page refreshes when switching between views.
 
 4. What does the `onMounted` method in Vue do?
 
@@ -22,7 +22,7 @@
 
 6. What is the package.json file used for?
 
-  > | ANSWER HERE |
+  > The primary purpose of package.json is to define script shortcuts and identify the entry point of/for an application. It can also be used to show metadata about a project's dependencies.
 
 7. Which Vue attributes(directives) could you use to conditionally render elements on a page?
 
@@ -34,4 +34,4 @@
 
 9. What is the `<slot>` element and what is it used for?
 
-  > | ANSWER HERE |
+  > The slot element is used within vue components to allow HTML to be embedded within a component from the calling page/component. A prime example of this being used this week was with modals. A modal component was created to create the basic template of it and within the component tag the content was placed which loads into the component's slot element.
