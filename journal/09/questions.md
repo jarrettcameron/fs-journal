@@ -1,7 +1,7 @@
 # Working in a Professional Environment
 01. What is Inheritance?
 
-> Inheritance is an idea in Object-Oriented Programming that allows classes to inherit behavior, methods and structure from another class. A prime example of a time we use this in class would be working with the express template we create controllers by extending from a util 'BaseController'. This allows the newly created controller to inheit behavior from that util class (registering the controller with express).
+> Inheritance is an idea in Object-Oriented Programming that allows classes to inherit behavior, methods and structure from another class. A prime example of a time we use this in class would be working with the express template we create controllers by extending from a util 'BaseController'. This allows the newly created controller to inherit behavior from that util class (registering the controller with express).
 
 02. What is the `Singleton` design pattern?
 
@@ -17,24 +17,25 @@
 
 05. What is the `Factory` design pattern?
 
-> | ANSWER HERE |
+> The factory design pattern allows objects to be created in a superclass but allows subclasses to alter the type of the object. It's handy for when you need flexibility in creating objects without directly specifying their classes.
 
 06. What is test driven development?
 
-> | ANSWER HERE |
+> Test driven development is a development process where specific tests are used to mark progression and planning in development. The process starts by making a test for a specific piece of functionality that's going to be added. Then that test is ran to make sure it fails on unexpected output and passes on expected output. The next step is writing the actual base functionality to pass the initial test. After the basic test is passed, a new test can be drawn to add any checks or more complex pieces to the function and the process repeats.
 
 07. In Scrum/Agile what is the DoD?
 
-> | ANSWER HERE |
+> The DoD stands for definition of done, it's the standard for measuring when a task is truly completed in development. It's a checklist that covers everything from basic functionality to polishing, testing and documentation.
 
 08. Give two examples of a user story:
 
-> | ANSWER HERE |
+> As a user, I should be able to receive notifications when someone interacts with my threads and posts.
+> As a user, I should be able to edit and delete previous posts and threads that I've made.
 
 09. During which ceremony is your Sprint Backlog created?
 
-> | ANSWER HERE |
+> The sprint backlog is created during the sprint planning phase.
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> Tasks are usually assigned during the sprint planning in the form of sprint backlogs.
